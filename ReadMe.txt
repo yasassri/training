@@ -4,3 +4,6 @@ https://myaccount.google.com/lesssecureapps
 
 Start The Backend service
 java -jar backend-service.jar -introspectionEnabled true
+
+Add this to hosts file
+127.0.0.1       localhost.com
