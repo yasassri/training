@@ -1,3 +1,8 @@
+#SCIM
+
+https://docs.wso2.com/display/IS570/Using+the+SCIM+2.0+REST+APIs
+https://docs.wso2.com/display/IS570/apidocs/SCIM2-endpoints/
+
 To enable Less Secure Apps
 
 https://myaccount.google.com/lesssecureapps
