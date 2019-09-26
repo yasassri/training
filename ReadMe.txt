@@ -1,5 +1,8 @@
 # SCIM
 
+Token EP
+curl --user Client Id:Client Secret -k -d "grant_type=password&username=username&password=password" -H "Content-Type:application/x-www-form-urlencoded" https://localhost:9443/oauth2endpoints/token
+
 The Oauth curl
 curl -v -k -H "Authorization: Bearer 46cbbee7-fb4d-3630-86e6-4529ab13bde8" https://localhost:9443/scim2/Users/5a22363b-d6cc-41a7-8b92-67280ebd8e6a
 
